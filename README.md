@@ -50,7 +50,7 @@ shap
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/heart-disease-cleveland.git
+git clone https://github.com/Mattys565/heart-disease-cleveland.git
 cd heart-disease-cleveland
 pip install -r requirements.txt
 jupyter notebook Heart_disease.ipynb
